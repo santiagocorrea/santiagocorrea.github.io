@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pat Pannuto | </title>
+    <link>https://santiagocorrea.github.io/author/pat-pannuto/</link>
+      <atom:link href="https://santiagocorrea.github.io/author/pat-pannuto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pat Pannuto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jan 2019 14:43:18 -0400</lastBuildDate>
+    <image>
+      <url>https://santiagocorrea.github.io/img/portrait.jpg</url>
+      <title>Pat Pannuto</title>
+      <link>https://santiagocorrea.github.io/author/pat-pannuto/</link>
+    </image>
+    
+    <item>
+      <title>The Open INcentive Kit OINK: Standardizing the Generation, Comparison, and Deployment of Incentive Systems</title>
+      <link>https://santiagocorrea.github.io/publication/the-open-incentive-kit-oink-standardizing-the-generation-comparison-and-deployment-of-incentive-systems/</link>
+      <pubDate>Tue, 15 Jan 2019 14:43:18 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/the-open-incentive-kit-oink-standardizing-the-generation-comparison-and-deployment-of-incentive-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

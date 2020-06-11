@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://santiagocorrea.github.io/</link>
+      <atom:link href="https://santiagocorrea.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2020 14:00:46 -0400</lastBuildDate>
+    <image>
+      <url>https://santiagocorrea.github.io/img/portrait.jpg</url>
+      <title></title>
+      <link>https://santiagocorrea.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Extend: A Framework for Increasing Energy Access by Interconnecting Solar Home Systems</title>
+      <link>https://santiagocorrea.github.io/publication/extend-a-framework-for-increasing-energy-access-by-interconnecting-solar-home-systems/</link>
+      <pubDate>Thu, 11 Jun 2020 14:00:46 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/extend-a-framework-for-increasing-energy-access-by-interconnecting-solar-home-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Like a Good Neighbor, Solar Is There</title>
+      <link>https://santiagocorrea.github.io/publication/like-a-good-neighbor-solar-is-there/</link>
+      <pubDate>Tue, 11 Jun 2019 14:25:54 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/like-a-good-neighbor-solar-is-there/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open INcentive Kit OINK: Standardizing the Generation, Comparison, and Deployment of Incentive Systems</title>
+      <link>https://santiagocorrea.github.io/publication/the-open-incentive-kit-oink-standardizing-the-generation-comparison-and-deployment-of-incentive-systems/</link>
+      <pubDate>Tue, 15 Jan 2019 14:43:18 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/the-open-incentive-kit-oink-standardizing-the-generation-comparison-and-deployment-of-incentive-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment Strategies for Crowdsourced Power Outage Detection</title>
+      <link>https://santiagocorrea.github.io/publication/deployment-strategies-for-crowdsourced-power-outage-detection/</link>
+      <pubDate>Tue, 30 Oct 2018 14:51:59 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/deployment-strategies-for-crowdsourced-power-outage-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Many Smartphones Does It Take to Detect a Power Outage?</title>
+      <link>https://santiagocorrea.github.io/publication/how-many-smartphones-does-it-take-to-detect-a-power-outage/</link>
+      <pubDate>Mon, 11 Jun 2018 14:52:59 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/how-many-smartphones-does-it-take-to-detect-a-power-outage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
