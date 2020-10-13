@@ -5,12 +5,20 @@
     <link>https://santiagocorrea.github.io/author/santiago-correa/</link>
       <atom:link href="https://santiagocorrea.github.io/author/santiago-correa/index.xml" rel="self" type="application/rss+xml" />
     <description>*Santiago Correa*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2020 14:00:46 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2020 11:51:33 -0400</lastBuildDate>
     <image>
       <url>https://santiagocorrea.github.io/img/portrait.jpg</url>
       <title>*Santiago Correa*</title>
       <link>https://santiagocorrea.github.io/author/santiago-correa/</link>
     </image>
+    
+    <item>
+      <title>Who&#39;s in Charge Here? Scheduling EV Charging on Dynamic Grids via Online Auctions With Soft Deadlines</title>
+      <link>https://santiagocorrea.github.io/publication/whos-in-charge-here-scheduling-ev-charging-on-dynamic-grids-via-online-auctions-with-soft-deadlines/</link>
+      <pubDate>Wed, 18 Nov 2020 11:51:33 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/whos-in-charge-here-scheduling-ev-charging-on-dynamic-grids-via-online-auctions-with-soft-deadlines/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extend: A Framework for Increasing Energy Access by Interconnecting Solar Home Systems</title>
