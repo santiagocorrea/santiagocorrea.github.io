@@ -5,12 +5,20 @@
     <link>https://santiagocorrea.github.io/publication-type/1/</link>
       <atom:link href="https://santiagocorrea.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2020 11:51:33 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 16:48:06 -0400</lastBuildDate>
     <image>
       <url>https://santiagocorrea.github.io/img/portrait.jpg</url>
       <title>1</title>
       <link>https://santiagocorrea.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>This Little Light of Mine: Electricity Access Mapping Using Night-Time Light Data</title>
+      <link>https://santiagocorrea.github.io/publication/this-little-light-of-mine-electricity-access-mapping-using-night-time-light-data/</link>
+      <pubDate>Mon, 28 Jun 2021 16:48:06 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/this-little-light-of-mine-electricity-access-mapping-using-night-time-light-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Who&#39;s in Charge Here? Scheduling EV Charging on Dynamic Grids via Online Auctions With Soft Deadlines</title>

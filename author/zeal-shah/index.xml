@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeal Shah | </title>
+    <link>https://santiagocorrea.github.io/author/zeal-shah/</link>
+      <atom:link href="https://santiagocorrea.github.io/author/zeal-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeal Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 16:48:06 -0400</lastBuildDate>
+    <image>
+      <url>https://santiagocorrea.github.io/img/portrait.jpg</url>
+      <title>Zeal Shah</title>
+      <link>https://santiagocorrea.github.io/author/zeal-shah/</link>
+    </image>
+    
+    <item>
+      <title>This Little Light of Mine: Electricity Access Mapping Using Night-Time Light Data</title>
+      <link>https://santiagocorrea.github.io/publication/this-little-light-of-mine-electricity-access-mapping-using-night-time-light-data/</link>
+      <pubDate>Mon, 28 Jun 2021 16:48:06 -0400</pubDate>
+      <guid>https://santiagocorrea.github.io/publication/this-little-light-of-mine-electricity-access-mapping-using-night-time-light-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
